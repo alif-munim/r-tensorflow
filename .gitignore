@@ -19,7 +19,6 @@ melanoma-classification/labels_1k.csv
 melanoma-classification/labels_2k.csv
 melanoma-classification/labels_4k.csv
 melanoma-classification/labels_subset.csv
-melanoma-classification/prepare_data.ipynb
 melanoma-classification/test_images_subset/
 melanoma-classification/test_images_subset_1k/
 melanoma-classification/test_images_subset_2k/
