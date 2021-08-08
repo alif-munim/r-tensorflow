@@ -26,3 +26,4 @@ melanoma-classification/test_images_subset_4k/
 mnist-handwriting/new_examples/
 mnist-handwriting/new_samples
 .Rproj.user
+convolution-nn/images
